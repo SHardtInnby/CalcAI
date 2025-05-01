@@ -1,0 +1,5 @@
+Angebots-ID,Bauteil,Werkstoff,Geometrie-Komplexität,Stückzahl,Bearbeitungszeit (h),Kosten (€),Ähnlichkeitsquote (%),Normbezug,Verfahren
+1001,Flanschplatte,Stahl S235,Mittel,10,3.5,120.0,85,DIN 2768-m,"Fräsen, Bohren"
+1002,Trägerprofil,Aluminium EN AW-6060,Einfach,50,2.0,95.0,73,EN 10204,"Sägen, Bohren"
+1003,Wellenadapter,Edelstahl 1.4301,Hoch,5,6.5,280.0,91,ISO 2768-f,"Drehen, Schweißen"
+1004,Halterung,Stahl S355,Mittel,20,4.0,160.0,68,DIN 6935,"Lasern, Biegen"
